@@ -11,7 +11,7 @@ Exam guide: https://cloud.connect.isc2.org/cc-ultimate-guide
 # Domains
 The exam covers 5 domains:
 
-| # | Domain   | %|
+| # | Domain   |Percentage|
 |---|---|---|
 |1.0 | [Security Principles](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_1#readme) | 26%|
 |2.0 | [Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_2#readme) | 24%|
