@@ -18,4 +18,4 @@ The exam covers 5 domains:
 |3.0 | [Access Controls Concepts](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_3#readme) | 22%|
 |4.0 | [Network Security](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_4#readme) | 18%|
 |5.0 | [Security Operations](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_5#readme) | 10%|
-| | 100%|
+| | | 100%|
