@@ -8,7 +8,7 @@
 |5.4 | [Understand security awareness training](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_5#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
