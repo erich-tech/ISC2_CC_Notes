@@ -8,6 +8,6 @@
 |1.4 | [Understand (ISC)² Code of Ethics](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_1#readme) |
 |1.5 | [Understand governance processes](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_1#readme) |
 ```
-NOTE: Currently in development. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
