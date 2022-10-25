@@ -13,9 +13,9 @@ The exam covers 5 domains:
 
 | # | Domain   |Percentage|
 |---|---|---|
-|1.0 | [Security Principles](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_1#readme) | 26%|
-|2.0 | [Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_2#readme) | 24%|
-|3.0 | [Access Controls Concepts](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_3#readme) | 22%|
-|4.0 | [Network Security](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_4#readme) | 18%|
-|5.0 | [Security Operations](https://github.com/erich-tech/ISC2_CC/tree/main/Domain_5#readme) | 10%|
+|1.0 | [Security Principles](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_1#readme) | 26%|
+|2.0 | [Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_2#readme) | 24%|
+|3.0 | [Access Controls Concepts](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_3#readme) | 22%|
+|4.0 | [Network Security](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_4#readme) | 18%|
+|5.0 | [Security Operations](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_5#readme) | 10%|
 | | | 100%|
