@@ -7,7 +7,7 @@
 |4.3 | [Understand network security infrastructure](https://github.com/erich-tech/ISC2_CC_Notes/tree/main/Domain_4#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
