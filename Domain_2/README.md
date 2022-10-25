@@ -8,5 +8,5 @@
 
 
 ```
-NOTE: Currently in development. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
